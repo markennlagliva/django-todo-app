@@ -5,7 +5,9 @@ name = "pypi"
 
 [packages]
 django = "==4.2.7"
-djangorestframework = "*"
+djangorestframework = "==3.14.0"
+django-livereload-server = "*"
+djangorestframework-simplejwt = "*"
 
 [dev-packages]
 
